@@ -26,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
