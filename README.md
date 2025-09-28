@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -100,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
