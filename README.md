@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0217-contains-duplicate) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
