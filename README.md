@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Database
 |  |
@@ -138,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
