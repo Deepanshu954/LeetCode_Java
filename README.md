@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 ## Union Find
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -203,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
