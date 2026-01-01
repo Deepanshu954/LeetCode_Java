@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
