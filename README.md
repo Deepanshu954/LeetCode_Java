@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0601-human-traffic-of-stadium](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0601-human-traffic-of-stadium) |
 ## Sliding Window
 |  |
 | ------- |
