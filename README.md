@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
