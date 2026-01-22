@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Database
 |  |
 | ------- |
