@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
