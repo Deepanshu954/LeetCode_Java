@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0704-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0179-largest-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
