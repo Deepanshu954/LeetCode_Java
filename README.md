@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
@@ -286,4 +288,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
