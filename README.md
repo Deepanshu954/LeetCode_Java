@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
