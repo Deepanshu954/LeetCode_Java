@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
