@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
