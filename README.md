@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
@@ -352,4 +353,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
