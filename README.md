@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
@@ -373,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
