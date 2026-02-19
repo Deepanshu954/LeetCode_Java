@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0137-single-number-ii) |
@@ -377,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
