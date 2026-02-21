@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
 ## Heap (Priority Queue)
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
