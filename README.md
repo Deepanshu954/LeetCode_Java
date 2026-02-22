@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
