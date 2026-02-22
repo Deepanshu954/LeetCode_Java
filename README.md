@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
