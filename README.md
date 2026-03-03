@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1920-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1920-build-array-from-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1920-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
