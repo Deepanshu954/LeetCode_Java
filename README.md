@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1470-shuffle-the-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
