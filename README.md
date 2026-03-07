@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Union Find
 |  |
