@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0930-binary-subarrays-with-sum) |
