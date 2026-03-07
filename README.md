@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
