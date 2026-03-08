@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
