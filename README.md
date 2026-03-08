@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0162-find-peak-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
