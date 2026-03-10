@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
