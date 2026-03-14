@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
+| [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1929-concatenation-of-array) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
