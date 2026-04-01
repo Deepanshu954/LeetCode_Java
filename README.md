@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0219-contains-duplicate-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Heap (Priority Queue)
 |  |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Search Tree
@@ -525,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
