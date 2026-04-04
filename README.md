@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0014-longest-common-prefix) |
@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1920-build-array-from-permutation) |
@@ -79,8 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0013-roman-to-integer) |
@@ -115,8 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0013-roman-to-integer) |
@@ -133,8 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0075-sort-colors) |
@@ -152,8 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0008-string-to-integer-atoi) |
@@ -185,8 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
@@ -195,8 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0015-3sum) |
@@ -224,8 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0162-find-peak-element) |
@@ -240,10 +241,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
@@ -256,12 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -269,8 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0118-pascals-triangle) |
@@ -280,8 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -291,13 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0601-human-traffic-of-stadium](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0601-human-traffic-of-stadium) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0076-minimum-window-substring) |
@@ -316,8 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
@@ -330,16 +332,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0417-pacific-atlantic-water-flow) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
@@ -347,48 +350,49 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1094-car-pooling) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0179-largest-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0014-longest-common-prefix) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0024-swap-nodes-in-pairs) |
@@ -399,8 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -408,8 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0050-powx-n) |
@@ -418,24 +422,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Deepanshu954/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Deepanshu954/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -452,8 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -467,9 +471,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -486,8 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0046-permutations) |
@@ -495,8 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -506,31 +511,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0417-pacific-atlantic-water-flow) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0374-guess-number-higher-or-lower) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/Deepanshu954/LeetCode_Java/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Deepanshu954/LeetCode_Java/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
